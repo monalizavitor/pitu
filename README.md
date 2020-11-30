@@ -1,4 +1,4 @@
-# Semana Full Stack JS: Pitu
+# Pitu
 
 ## Sobre o Projeto
 
@@ -7,11 +7,6 @@ O **Pitu** é uma aplicação web de microsserviço que transforma uma URL longa
 ![pitu-logo](./img/pitu.png)
 
 O projeto tem o nome inspirado no camarão **pitu**, que nasce bem pequeno mas se torna gigante quando adulto. 
-
-
-
-Projeto realizado durante a **Semana Full Stack JS**, projeto do professor [Luiz Duarte](https://www.luiztools.com.br).
-
 
 
  ![pitu-app](./img/design-pitu.PNG)
@@ -48,7 +43,7 @@ Projeto realizado durante a **Semana Full Stack JS**, projeto do professor [Luiz
 
 `git clone https://github.com/monalizavitor/pitu.git`
 
-2. Executando a Aplicação:
+2. Para rodar o projeto:
 
 ```
   # API
@@ -64,3 +59,5 @@ Projeto realizado durante a **Semana Full Stack JS**, projeto do professor [Luiz
   $ yarn install || npm install
   $ yarn start || npm start
 ```
+
+Projeto realizado durante a **Semana Full Stack JS**, projeto do professor [Luiz Duarte](https://www.luiztools.com.br).
