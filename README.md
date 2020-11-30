@@ -4,8 +4,6 @@
 
 O **Pitu** é uma aplicação web de microsserviço que transforma uma URL longa em uma URL curta e mais fácil de memorizar, e também tem a função de estatíticas da URL permitindo a vizualização da quantidade de acesso que recebeu o link encurtado.
 
-![pitu-logo](./img/pitu.png)
-
 O projeto tem o nome inspirado no camarão **pitu**, que nasce bem pequeno mas se torna gigante quando adulto. 
 
 
